@@ -49,7 +49,7 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: '微信',
+      name: '微信公众号',
       link: 'https://mp.weixin.qq.com/s/vLEz8msytnhzWYmqPrDevw',
     },
     {
